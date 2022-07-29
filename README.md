@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My Solution](https://your-solution-url.com)
-- Live Site URL: [Stats Preview Card](https://your-live-site-url.com)
+- Live Site URL: [Stats Preview Card](https://saadaan-hassan.github.io/Stats-Preview-Card/)
 
 ## My process
 
